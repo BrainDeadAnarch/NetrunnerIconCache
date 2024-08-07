@@ -10,7 +10,7 @@ Agenda (DB)|<img src="https://www.svgrepo.com/show/447285/chart-bar.svg" width="
 
 ## Faction icons
 
-## Key
+## Icon type
 
 (OG) Original icons  
 (DB) NetrunnerDB/RetekiDB icons  
