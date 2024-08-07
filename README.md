@@ -10,7 +10,13 @@ Agenda|<img src="https://www.svgrepo.com/show/447285/chart-bar.svg" width="24"> 
 
 ## Faction icons
 
-## Custom icons (*)
+## Key
+
+(O) Original icons
+(DB) NetrunnerDB/RetekiDB icons
+(C) Custom icons
+
+## Custom icons
 
 Not every Netrunner game action has its own published icon. Inspired by the many unoficial Netrunner tokens, NIC also includes custom icons for those game actions without official icons.
 
