@@ -1,12 +1,14 @@
 # Netrunner Icon Cache
 
-Official and Unofficial Netrunner card game icons for consistent resources.
+Official and Unofficial Netrunner card game icons for consistent resources. 
 
-## Unnoficial icons
+## Action icons
 
-Not every Netrunner game action has its own published icon. Inspired by the many unoficial Netrunner tokens, this resource also provides icons for those game actions without official icons.
+**Name**|**Logo**|**Source**|**Embed**
+:-----:|:-----:|:-----:|:-----:
+Agenda|<img src="https://www.svgrepo.com/show/447285/chart-bar.svg" width="24">     |[svgrepo.com](https://www.svgrepo.com/svg/447285/chart-bar) |```<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M18 18V2h-4v16h4zm-6 0V7H8v11h4zm-6 0v-8H2v8h4z"/></svg>``` 
 
-[![Static Badge](https://img.shields.io/badge/Suggest-Icon-teal?style=flat)](https://archivesserver.github.io)
+## Faction icons
 
 ## Icon sources
 
@@ -16,15 +18,13 @@ Not every Netrunner game action has its own published icon. Inspired by the many
 
 **iconmonstr**: Free to use vectors for unnofficial icons.
 
-**Null Signal Games**: Central Server icons - please read the [NSG Visual Assets Guidelines and Terms & Conditions](https://nullsignal.games/about/nsg-visual-assets) before use. 
+**Null Signal Games**: Central Server icons - please read the [NSG Visual Assets Guidelines and Terms & Conditions](https://nullsignal.games/about/nsg-visual-assets) before use.
 
-## Action icons
+## Unnoficial icons
 
-**Name**|**Logo**|**Source**|**Embed**
-:-----:|:-----:|:-----:|:-----:
-Agenda|<img src="https://www.svgrepo.com/show/447285/chart-bar.svg" width="24">     |[svgrepo.com](https://www.svgrepo.com/svg/447285/chart-bar) |```<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M18 18V2h-4v16h4zm-6 0V7H8v11h4zm-6 0v-8H2v8h4z"/></svg>``` 
+Not every Netrunner game action has its own published icon. Inspired by the many unoficial Netrunner tokens, this resource also provides icons for those game actions without official icons.
 
-## Faction icons
+[![Static Badge](https://img.shields.io/badge/Suggest-Icon-teal?style=flat)](https://archivesserver.github.io)
 
 ## As seen on
 
