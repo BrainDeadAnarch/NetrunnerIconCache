@@ -1,4 +1,4 @@
-# Netrunner Icon Cache
+# Netrunner Icon Cache (NIC)
 
 Bringing together Official and Unofficial Netrunner card game icons for consistent resources. 
 
@@ -26,7 +26,7 @@ Not every Netrunner game action has its own published icon. Inspired by the many
 
 [![Static Badge](https://img.shields.io/badge/Suggest-Icon-teal?style=flat)](https://archivesserver.github.io)
 
-## As seen on
+## Resources using NIC
 
 Running Solo With Benefits
 
