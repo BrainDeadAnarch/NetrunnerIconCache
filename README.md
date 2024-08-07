@@ -40,7 +40,7 @@ If your online resource has the capability, embedding an SVG icon provides highe
 
 Running Solo With Benefits
 
-[![Static Badge](https://img.shields.io/badge/Add-Resource-teal?style=flat)](https://archivesserver.github.io)
+[![Static Badge](https://img.shields.io/badge/Add-Resource-firebrick?style=flat)](https://archivesserver.github.io)
 
 ## Where are the NSG icons?
 
