@@ -4,7 +4,7 @@ Official and Unofficial Netrunner card game icons for consistent resources.
 
 ## Unnoficial icons
 
-Not every Netrunner game element has its own published icon. Inspired by the many Netrunner tokens, this resource will also provide icons for those game elements without official icons.
+Not every Netrunner game element has its own published icon. Inspired by the many unoficial Netrunner tokens, this resource also provides icons for those game elements without official icons.
 
 Recommend an icon button
 
