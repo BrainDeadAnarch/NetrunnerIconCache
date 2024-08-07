@@ -1,6 +1,6 @@
 # Netrunner Icon Cache
 
-Official and Unofficial Netrunner card game icons for consistent resources. 
+Bringing together Official and Unofficial Netrunner card game icons for consistent resources. 
 
 ## Action icons
 
