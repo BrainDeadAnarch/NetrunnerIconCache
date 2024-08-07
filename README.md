@@ -12,7 +12,7 @@ Agenda|<img src="https://www.svgrepo.com/show/447285/chart-bar.svg" width="24"> 
 
 ## Icon sources
 
-**MWDelaney Github**: Re-rendered original and [NetrunnerDB](https://netrunnerdb.com) / [RetekiDB](https://nrdb.reteki.fun) icons.
+**MWDelaney Github**: Recreated original and [NetrunnerDB](https://netrunnerdb.com) / [RetekiDB](https://nrdb.reteki.fun) icons.
 
 **SVG Repo**: Open-licensed vectors for recreated [NetrunnerDB](https://netrunnerdb.com) / [RetekiDB](https://nrdb.reteki.fun) and unnofficial icons.
 
