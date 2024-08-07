@@ -6,7 +6,7 @@ Official and Unofficial Netrunner card game icons for consistent resources.
 
 Not every Netrunner game element has its own published icon. Inspired by the many unoficial Netrunner tokens, this resource also provides icons for those game elements without official icons.
 
-Recommend an icon button
+Suggest Icon button
 
 ## Icon sources
 
@@ -28,5 +28,5 @@ Agenda|<img src="https://www.svgrepo.com/show/447285/chart-bar.svg" width="24"> 
 
 Running Solo With Benefits
 
-Add your resource button
+Add Resource button
 
