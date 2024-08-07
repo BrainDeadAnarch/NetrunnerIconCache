@@ -1,14 +1,14 @@
 # Netrunner Icons
 
-Definative home of the official and unofficial icons associated with the Android Netrunner card game. 
+Official and Unofficial Netrunner card game icons under one roof.
 
 ## Icon Sources
 
-**MWDelaney Github**: Re-rendered FFG and [NetrunnerDB](https://netrunnerdb.com) / [RetekiDB](https://nrdb.reteki.fun) icons.
+**MWDelaney Github**: Re-rendered original and [NetrunnerDB](https://netrunnerdb.com) / [RetekiDB](https://nrdb.reteki.fun) icons.
 
-**SVG Repo**: Alternatively sourced open-licensed vectors to match remaining [NetrunnerDB](https://netrunnerdb.com) / [RetekiDB](https://nrdb.reteki.fun) icons. Source used for unnofficial icons.
+**SVG Repo**: Open-licensed vectors for [NetrunnerDB](https://netrunnerdb.com) / [RetekiDB](https://nrdb.reteki.fun) and unnofficial icons.
 
-**iconmonstr**: Free to use vectors. Source used for unnofficial icons.
+**iconmonstr**: Free to use vectors for unnofficial icons.
 
 **Null Signal Games**: Central server icons, please read the [NSG Visual Assets Guidelines and Terms & Conditions](https://nullsignal.games/about/nsg-visual-assets) before use. 
 
