@@ -18,13 +18,13 @@ Agenda|<img src="https://www.svgrepo.com/show/447285/chart-bar.svg" width="24"> 
 
 **iconmonstr**: Free to use vectors for unnofficial icons.
 
-## *Custom icons
+## Custom icons (*)
 
 Not every Netrunner game action has its own published icon. Inspired by the many unoficial Netrunner tokens, NIC also includes custom icons for those game actions without official icons.
 
 ## Embedding icons
 
-If your online resource has the capability, embedding an SVG icon is the more flexible approach.
+If your online resource has the capability, embedding an SVG icon is the ideal and more flexible approach.
 
 ### Size and Color
 
