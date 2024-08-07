@@ -1,6 +1,6 @@
 # Netrunner Icons
 
-Official and Unofficial Netrunner card game icons under one roof.
+Official and Unofficial Netrunner card game icons under one roof. Providing SVG embedded links for online resources.
 
 ## Icon Sources
 
@@ -18,4 +18,9 @@ Official and Unofficial Netrunner card game icons under one roof.
 :-----:|:-----:|:-----:|:-----:
 Agenda|<img src="https://www.svgrepo.com/show/447285/chart-bar.svg" width="24">     |[svgrepo.com](https://www.svgrepo.com/svg/447285/chart-bar) |```<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M18 18V2h-4v16h4zm-6 0V7H8v11h4zm-6 0v-8H2v8h4z"/></svg>``` 
 
+## As seen on
+
+Running Solo With Benefits
+
+Add your resource that uses these icons here
 
