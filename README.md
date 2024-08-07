@@ -12,9 +12,9 @@ Agenda (DB)|<img src="https://www.svgrepo.com/show/447285/chart-bar.svg" width="
 
 ## Icon type
 
-(OG) Original icons  
-(DB) NetrunnerDB/RetekiDB icons  
-(CU) Custom icons
+(OG) Original.  
+(DB) NetrunnerDB/RetekiDB. 
+(CU) Custom. 
 
 ## Custom icons
 
