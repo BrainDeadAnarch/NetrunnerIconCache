@@ -12,8 +12,8 @@ Agenda (DB)|<img src="https://www.svgrepo.com/show/447285/chart-bar.svg" width="
 
 ## Key
 
-(OG) Original icons 
-(DB) NetrunnerDB/RetekiDB icons 
+(OG) Original icons  
+(DB) NetrunnerDB/RetekiDB icons  
 (C) Custom icons
 
 ## Custom icons
