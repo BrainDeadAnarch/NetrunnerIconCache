@@ -1,4 +1,4 @@
-# Netrunner Icons
+# Netrunner Icon Cache
 
 Official and Unofficial Netrunner card game icons for consistent resources.
 
