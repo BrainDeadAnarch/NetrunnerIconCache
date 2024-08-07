@@ -16,9 +16,9 @@ Not every Netrunner game action has its own published icon. Inspired by the many
 
 **iconmonstr**: Free to use vectors for unnofficial icons.
 
-**Null Signal Games**: Central server icons, please read the [NSG Visual Assets Guidelines and Terms & Conditions](https://nullsignal.games/about/nsg-visual-assets) before use. 
+**Null Signal Games**: Central Server icons - please read the [NSG Visual Assets Guidelines and Terms & Conditions](https://nullsignal.games/about/nsg-visual-assets) before use. 
 
-### Icon Source List
+### Icon source List
 
 **Name**|**Logo**|**Source**|**Embed**
 :-----:|:-----:|:-----:|:-----:
