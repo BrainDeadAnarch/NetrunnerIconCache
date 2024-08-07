@@ -1,6 +1,6 @@
 # Netrunner Icon Cache (NIC)
 
-Bringing together Official and Unofficial Netrunner card game icons for consistent resources. 
+Bringing together Official and Custom Netrunner card game icons for online and offline resources. 
 
 ## Action icons
 
@@ -18,9 +18,9 @@ Agenda|<img src="https://www.svgrepo.com/show/447285/chart-bar.svg" width="24"> 
 
 **iconmonstr**: Free to use vectors for unnofficial icons.
 
-## *Unnoficial icons
+## *Custom icons
 
-Not every Netrunner game action has its own published icon. Inspired by the many unoficial Netrunner tokens, NIC also includes icons for those game actions without official icons.
+Not every Netrunner game action has its own published icon. Inspired by the many unoficial Netrunner tokens, NIC also includes custom icons for those game actions without official icons.
 
 ## Embedding icons
 
