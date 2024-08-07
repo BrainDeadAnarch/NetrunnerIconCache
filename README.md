@@ -40,7 +40,7 @@ Running Solo With Benefits
 
 ## Where are the NSG icons?
 
-NIC includes recreated original FFG icons, therefore NSG icons are not permitted in this resource. Source: [NSG Visual Assets Guidelines and Terms & Conditions](https://nullsignal.games/about/nsg-visual-assets) - "Please do not mix our graphic assets with any FFG assets."
+NIC includes recreated original FFG icons, therefore NSG icons are not permitted on this site. Source: [NSG Visual Assets Guidelines and Terms & Conditions](https://nullsignal.games/about/nsg-visual-assets) - "Please do not mix our graphic assets with any FFG assets."
 
 ## Small Print
 
