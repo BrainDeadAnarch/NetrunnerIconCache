@@ -16,9 +16,7 @@ Agenda|<img src="https://www.svgrepo.com/show/447285/chart-bar.svg" width="24"> 
 
 **SVG Repo**: Open-licensed vectors for recreated [NetrunnerDB](https://netrunnerdb.com) / [RetekiDB](https://nrdb.reteki.fun) and unnofficial icons.
 
-**iconmonstr**: Free to use vectors for unnofficial icons.
-
-**Null Signal Games**: Central Server icons - please read the [NSG Visual Assets Guidelines and Terms & Conditions](https://nullsignal.games/about/nsg-visual-assets) before use.
+**iconmonstr**: Free to use vectors for unnofficial icons..
 
 ## Embedding icons
 
@@ -33,6 +31,10 @@ If your online resource has the capability, embedding an SVG icon is the more fl
 Not every Netrunner game action has its own published icon. Inspired by the many unoficial Netrunner tokens, this resource also includes icons for those game actions without official icons.
 
 [![Static Badge](https://img.shields.io/badge/Suggest-Icon-teal?style=flat)](https://archivesserver.github.io)
+
+## Where are the Null Signal Games icons?
+
+As NIC includes recreated original FFG icons, NSG does not permit their icons to be included in resources using FFG assets. Source: [NSG Visual Assets Guidelines and Terms & Conditions](https://nullsignal.games/about/nsg-visual-assets) - "Please do not mix our graphic assets with any FFG assets."
 
 ## Resources using NIC
 
