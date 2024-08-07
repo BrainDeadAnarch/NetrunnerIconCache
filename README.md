@@ -14,11 +14,11 @@ Agenda (DB)|<img src="https://www.svgrepo.com/show/447285/chart-bar.svg" width="
 
 (OG) Original icons  
 (DB) NetrunnerDB/RetekiDB icons  
-(C) Custom icons
+(CU) Custom icons
 
 ## Custom icons
 
-Not every Netrunner game action has its own published icon. Inspired by the many unoficial Netrunner tokens, NIC also includes custom icons for those game actions without official icons.
+Not every Netrunner game action has its own published icon. Inspired by the many creative and unoficial Netrunner tokens, NIC also includes custom icons for those game actions without official icons.
 
 [![Static Badge](https://img.shields.io/badge/Suggest-Icon-teal?style=flat)](https://archivesserver.github.io)
 
@@ -32,7 +32,7 @@ Not every Netrunner game action has its own published icon. Inspired by the many
 
 ## Embedding icons
 
-If your online resource has the capability, embedding an SVG icon provides better quality and flexibility.
+If your online resource has the capability, embedding an SVG icon provides higher quality and flexibility.
 
 ### Size and Color
 
