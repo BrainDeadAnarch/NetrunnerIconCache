@@ -32,15 +32,15 @@ Not every Netrunner game action has its own published icon. Inspired by the many
 
 [![Static Badge](https://img.shields.io/badge/Suggest-Icon-teal?style=flat)](https://archivesserver.github.io)
 
-## Where are the Null Signal Games icons?
-
-NIC includes recreated original FFG icons, therefore NSG icons are not permitted in this resource. Source: [NSG Visual Assets Guidelines and Terms & Conditions](https://nullsignal.games/about/nsg-visual-assets) - "Please do not mix our graphic assets with any FFG assets."
-
 ## Resources using NIC
 
 Running Solo With Benefits
 
 [![Static Badge](https://img.shields.io/badge/Add-Resource-teal?style=flat)](https://archivesserver.github.io)
+
+## Where are the NSG icons?
+
+NIC includes recreated original FFG icons, therefore NSG icons are not permitted in this resource. Source: [NSG Visual Assets Guidelines and Terms & Conditions](https://nullsignal.games/about/nsg-visual-assets) - "Please do not mix our graphic assets with any FFG assets."
 
 ## Small Print
 
