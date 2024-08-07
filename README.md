@@ -38,7 +38,7 @@ If your online resource has the capability, embedding an SVG icon provides highe
 
 ## Resources using NIC
 
-Running Solo With Benefits
+- Running Solo With Benefits
 
 [![Static Badge](https://img.shields.io/badge/Add-Resource-firebrick?style=flat)](https://archivesserver.github.io)
 
