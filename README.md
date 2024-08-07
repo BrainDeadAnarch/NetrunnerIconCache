@@ -22,7 +22,7 @@ Agenda|<img src="https://www.svgrepo.com/show/447285/chart-bar.svg" width="24"> 
 
 ## Unnoficial icons
 
-Not every Netrunner game action has its own published icon. Inspired by the many unoficial Netrunner tokens, this resource also provides icons for those game actions without official icons.
+Not every Netrunner game action has its own published icon. Inspired by the many unoficial Netrunner tokens, this resource also includes icons for those game actions without official icons.
 
 [![Static Badge](https://img.shields.io/badge/Suggest-Icon-teal?style=flat)](https://archivesserver.github.io)
 
@@ -32,3 +32,8 @@ Running Solo With Benefits
 
 [![Static Badge](https://img.shields.io/badge/Add-Resource-teal?style=flat)](https://archivesserver.github.io)
 
+## Small Print
+
+The information presented on this site about Netrunner, both literal and graphical, is copyrighted by Fantasy Flight Games.
+
+This site is not produced, endorsed, supported, or affiliated with Fantasy Flight Games, Wizards of the Coast, Null Signal Games or NetrunnerDB/RetekiDB.
