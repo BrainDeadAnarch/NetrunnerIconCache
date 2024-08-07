@@ -20,6 +20,14 @@ Agenda|<img src="https://www.svgrepo.com/show/447285/chart-bar.svg" width="24"> 
 
 **Null Signal Games**: Central Server icons - please read the [NSG Visual Assets Guidelines and Terms & Conditions](https://nullsignal.games/about/nsg-visual-assets) before use.
 
+## Embedding icons
+
+If your online resource has the capability, embedding an SVG icon is the more flexible approach.
+
+### Size and Color
+
+
+
 ## Unnoficial icons
 
 Not every Netrunner game action has its own published icon. Inspired by the many unoficial Netrunner tokens, this resource also includes icons for those game actions without official icons.
