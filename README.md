@@ -2,6 +2,10 @@
 
 Bringing together Official and Custom Netrunner card game icons for online and offline resources. 
 
+TEST
+
+<img src="https://www.svgrepo.com/show/447285/chart-bar.svg" width="24" fill="white"> 
+
 ## Action icons
 
 **Name**|**Logo**|**Source**|**Embed**
