@@ -10,7 +10,7 @@ Agenda (DB)|<img src="https://www.svgrepo.com/show/447285/chart-bar.svg" width="
 
 ## Faction icons
 
-## Icon type
+## Icon types
 
 (OG) Original.  
 (DB) NetrunnerDB/RetekiDB.  
@@ -36,7 +36,7 @@ If your online resource has the capability, embedding an SVG icon provides highe
 
 ### Size and Color
 
-'''viewBox="0 0 24 24"''
+```viewBox="0 0 24 24"```
 
 ## Resources using NIC
 
