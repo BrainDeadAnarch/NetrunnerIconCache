@@ -36,6 +36,8 @@ If your online resource has the capability, embedding an SVG icon provides highe
 
 ### Size and Color
 
+'''viewBox="0 0 24 24"''
+
 ## Resources using NIC
 
 - Running Solo With Benefits
