@@ -2,10 +2,6 @@
 
 Bringing together Official and Custom Netrunner card game icons for online and offline resources.
 
-TEST 3
-
-<img src="https://www.svgrepo.com/show/447285/chart-bar.svg" width="24" fill="#ffffff"> 
-
 ## Action icons
 
 **Name**|**Logo**|**Source**|**Embed**
@@ -16,15 +12,15 @@ Agenda (DB)|<img src="https://www.svgrepo.com/show/447285/chart-bar.svg" width="
 
 ## Icon types
 
-(OG) Original.  
-(DB) NetrunnerDB/RetekiDB.  
-(CU) Custom.
+(OG) Original  
+(DB) NetrunnerDB/RetekiDB  
+(CU) Custom
 
 ## Custom icons
 
 Not every Netrunner game action has its own published icon. Inspired by the many creative and unoficial Netrunner tokens, NIC also includes custom icons for those game actions without official icons.
 
-[![Static Badge](https://img.shields.io/badge/Suggest-Icon-forestgreen?style=flat)](https://archivesserver.github.io)
+[![Static Badge](https://img.shields.io/badge/Suggest-Icon-forestgreen?style=flat)](https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions)
 
 ## Icon sources
 
@@ -46,11 +42,11 @@ If your online resource has the capability, embedding an SVG icon provides highe
 
 - Running Solo With Benefits
 
-[![Static Badge](https://img.shields.io/badge/Add-Resource-firebrick?style=flat)](https://archivesserver.github.io)
+[![Static Badge](https://img.shields.io/badge/Add-Resource-firebrick?style=flat)](https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions)
 
 ## What about NSG icons?
 
-NIC includes Netrunner's original icons (recreated), therefore NSG icons are not permitted on this site. Source: [NSG Visual Assets Guidelines and Terms & Conditions](https://nullsignal.games/about/nsg-visual-assets) - "Please do not mix our graphic assets with any FFG assets."
+NIC includes Netrunner's original icons (recreated), therefore NSG will not permit their icons on this site. Source: [NSG Visual Assets Guidelines and Terms & Conditions](https://nullsignal.games/about/nsg-visual-assets) - "Please do not mix our graphic assets with any FFG assets."
 
 ## Small Print
 
