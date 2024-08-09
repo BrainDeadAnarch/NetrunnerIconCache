@@ -26,9 +26,9 @@ Not every Netrunner game action has a published icon. Therefore, inspired by the
 
 **MWDelaney Github**: Recreated original and [NetrunnerDB](https://netrunnerdb.com) / [RetekiDB](https://nrdb.reteki.fun) icons.
 
-**SVG Repo**: Open-licensed vectors for recreated [NetrunnerDB](https://netrunnerdb.com) / [RetekiDB](https://nrdb.reteki.fun) and unnofficial icons.
+**SVG Repo**: Open-licensed vectors for recreated [NetrunnerDB](https://netrunnerdb.com) / [RetekiDB](https://nrdb.reteki.fun) and custom icons.
 
-**iconmonstr**: Free to use vectors for unnofficial icons.
+**iconmonstr**: Free to use vectors for custom icons.
 
 ## Embedding icons
 
