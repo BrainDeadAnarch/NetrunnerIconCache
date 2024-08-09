@@ -1,5 +1,5 @@
-![](https://github.com/BrainDeadAnarch/NetrunnerIconCache/blob/main/assets/nic-light.png?raw=true#gh-light-mode-only)
-![](https://github.com/BrainDeadAnarch/NetrunnerIconCache/blob/main/assets/nic-dark.png?raw=true#gh-dark-mode-only)
+![](https://github.com/BrainDeadAnarch/NetrunnerIconCache/blob/main/assets/nic-light.png#gh-light-mode-only)
+![](https://github.com/BrainDeadAnarch/NetrunnerIconCache/blob/main/assets/nic-dark.png#gh-dark-mode-only)
 
 ### Netrunner card game icons
 
