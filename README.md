@@ -1,10 +1,21 @@
 ![](https://github.com/BrainDeadAnarch/NetrunnerIconCache/blob/main/assets/nic-light.png?raw=true#gh-light-mode-only)
-![](https://github.com/BrainDeadAnarch/NetrunnerIconCache/blob/main/assets/nic-light.png?raw=true#gh-dark-mode-only)
+![](https://github.com/BrainDeadAnarch/NetrunnerIconCache/blob/main/assets/nic-dark.png?raw=true#gh-dark-mode-only)
 
 ### Netrunner card game icons
 
 [![Static Badge](https://img.shields.io/badge/Suggest-Icon-forestgreen?style=flat)](https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions) [![Static Badge](https://img.shields.io/badge/Add-Resource-navy?style=flat)](https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions) 
 <p><br></p>
+
+=====TESTING
+<p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BrainDeadAnarch/NetrunnerIconCache/blob/main/assets/nic-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/BrainDeadAnarch/NetrunnerIconCache/blob/main/assets/nic-light.png">
+      <img alt="" src="https://github.com/BrainDeadAnarch/NetrunnerIconCache/blob/main/assets/nic-light.png" style="max-width: 100%;">
+    </picture>
+</p>
+=====TESTING
+
 
 # Action icons
 
