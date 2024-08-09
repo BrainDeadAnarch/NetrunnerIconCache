@@ -1,6 +1,9 @@
-# Netrunner Icon Cache (NIC)
+![](https://github.com/BrainDeadAnarch/NetrunnerIconCache/blob/main/assets/nic-light.png?raw=true#gh-light-mode-only)
+![](https://github.com/BrainDeadAnarch/NetrunnerIconCache/blob/main/assets/nic-light.png?raw=true#gh-dark-mode-only)
 
 Storage for the Netrunner card game icons.
+
+[![Static Badge](https://img.shields.io/badge/Suggest-Icon-forestgreen?style=flat)](https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions) [![Static Badge](https://img.shields.io/badge/Add-Resource-navy?style=flat)](https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions)
 
 ## Action icons
 
@@ -20,7 +23,7 @@ Storage for the Netrunner card game icons.
 
 Not every Netrunner game action has a published icon. Therefore, inspired by the many fanmade Netrunner tokens, NIC includes custom icons for those game actions without official icons.
 
-[![Static Badge](https://img.shields.io/badge/Suggest-Icon-forestgreen?style=flat)](https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions)
+
 
 ## Icon sources
 
@@ -42,7 +45,7 @@ If your online resource has the capability, embedding an SVG icon provides highe
 
 Running Solo With Benefits
 
-[![Static Badge](https://img.shields.io/badge/Add-Resource-navy?style=flat)](https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions)
+
 
 ## What about NSG icons?
 
