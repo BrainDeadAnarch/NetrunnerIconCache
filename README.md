@@ -12,9 +12,9 @@ Storing official and custom Netrunner card game icons for online and offline res
 
 ## Icon types
 
-(OG) Original  
-(DB) NetrunnerDB/RetekiDB  
-(CU) Custom
+**(OG)** Original  
+**(DB)** NetrunnerDB/RetekiDB  
+**(CU)** Custom
 
 ## Custom icons
 
@@ -24,7 +24,7 @@ Not every Netrunner game action has a published icon. Therefore, inspired by the
 
 ## Icon sources
 
-[**MWDelaney**](https://github.com/MWDelaney/Netrunner-Icon-Font): Recreated original and [NetrunnerDB](https://netrunnerdb.com) / [RetekiDB](https://nrdb.reteki.fun) icons.
+[**MWDelaney**](https://github.com/MWDelaney/Netrunner-Icon-Font): Recreated original Netrunner and [NetrunnerDB](https://netrunnerdb.com) / [RetekiDB](https://nrdb.reteki.fun) icons.
 
 [**SVG Repo**](https://www.svgrepo.com): Open-licensed vectors for recreated [NetrunnerDB](https://netrunnerdb.com) / [RetekiDB](https://nrdb.reteki.fun) and custom icons.
 
