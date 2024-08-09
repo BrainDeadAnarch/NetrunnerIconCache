@@ -68,9 +68,9 @@ If your online resource has the capability, embedding an SVG icon provides highe
 
 ### NIC badge
 
-If you are using NIC on your resource, support this project by displaying the official NIC badge. Copy your preferred code method below.
-
 [![Static Badge](https://custom-icon-badges.demolab.com/badge/NIC-Installed-dodgerblue?style=flat&logo=stack)](https://github.com/BrainDeadAnarch/NetrunnerIconCache)
+
+If you are using NIC on your resource, please support this project by displaying the official NIC badge - Copy your preferred code method below.
 
 **Markdown**  
 ```
