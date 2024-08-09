@@ -49,7 +49,8 @@ If your online resource has the capability, embedding an SVG icon provides highe
 Since NIC includes Netrunner's original (recreated) icons, this site cannot include NSG icons.
 
 > "Please do not mix our graphic assets with any FFG assets."
--- [NSG Visual Assets Guidelines and Terms & Conditions](https://nullsignal.games/about/nsg-visual-assets)
+>
+> -- [NSG Visual Assets Guidelines and Terms & Conditions](https://nullsignal.games/about/nsg-visual-assets)
 
 ## Small Print
 
