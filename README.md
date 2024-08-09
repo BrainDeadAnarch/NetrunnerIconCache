@@ -24,6 +24,7 @@ Netrunner card game icons for online and offline resources
 <a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions"><img src="https://img.shields.io/badge/Suggest-Icon-mediumseagreen?style=flat" alt=""></a>
 <a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions"><img src="https://img.shields.io/badge/Add-Resource-gold?style=flat" alt=""></a>
 <a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache"><img src="https://img.shields.io/badge/NIC-Installed-dodgerblue?style=flat" alt=""></a>
+<a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache"><img src="https://custom-icon-badges.demolab.com/badge/NIC-Installed-dodgerblue?style=flat&logo=stack" alt=""></a>
 </p>
 <p><br></p>
 =====TESTING
