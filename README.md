@@ -1,6 +1,6 @@
 # Netrunner Icon Cache (NIC)
 
-Fast access storage to Netrunner card game icons.
+Storage for the Netrunner card game icons.
 
 ## Action icons
 
@@ -40,9 +40,9 @@ If your online resource has the capability, embedding an SVG icon provides highe
 
 ## Resources using NIC
 
-- Running Solo With Benefits
+Running Solo With Benefits
 
-[![Static Badge](https://img.shields.io/badge/Add-Resource-lightskyblue?style=flat)](https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions)
+[![Static Badge](https://img.shields.io/badge/Add-Resource-navy?style=flat)](https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions)
 
 ## What about NSG icons?
 
