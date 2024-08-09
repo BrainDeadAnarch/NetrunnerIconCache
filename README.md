@@ -1,6 +1,6 @@
 # Netrunner Icon Cache (NIC)
 
-Fast access storage for official and custom Netrunner card game icons.
+Fast access storage to Netrunner card game icons.
 
 ## Action icons
 
@@ -50,7 +50,7 @@ Since NIC includes Netrunner's original (recreated) icons, this site cannot incl
 
 > "Please do not mix our graphic assets with any FFG assets."
 >
-> -- [NSG Visual Assets Guidelines and Terms & Conditions](https://nullsignal.games/about/nsg-visual-assets)
+> <sup>[NSG Visual Assets Guidelines and Terms & Conditions](https://nullsignal.games/about/nsg-visual-assets)</sup>
 
 ## Learn more about Netrunner
 
