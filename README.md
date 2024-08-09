@@ -24,11 +24,11 @@ Not every Netrunner game action has a published icon. Therefore, inspired by the
 
 ## Icon sources
 
-**MWDelaney Github**: Recreated original and [NetrunnerDB](https://netrunnerdb.com) / [RetekiDB](https://nrdb.reteki.fun) icons.
+[**MWDelaney**](https://github.com/MWDelaney/Netrunner-Icon-Font): Recreated original and [NetrunnerDB](https://netrunnerdb.com) / [RetekiDB](https://nrdb.reteki.fun) icons.
 
-**SVG Repo**: Open-licensed vectors for recreated [NetrunnerDB](https://netrunnerdb.com) / [RetekiDB](https://nrdb.reteki.fun) and custom icons.
+[**SVG Repo**](https://www.svgrepo.com): Open-licensed vectors for recreated [NetrunnerDB](https://netrunnerdb.com) / [RetekiDB](https://nrdb.reteki.fun) and custom icons.
 
-**iconmonstr**: Free to use vectors for custom icons.
+[**iconmonstr**](https://iconmonstr.com): Free to use vectors for custom icons.
 
 ## Embedding icons
 
@@ -62,4 +62,4 @@ Since NIC includes Netrunner's original (recreated) icons, this site cannot incl
 
 The information presented on this site about Netrunner, both literal and graphical, is copyrighted by Fantasy Flight Games.
 
-This site is not produced, endorsed, supported, or affiliated with Fantasy Flight Games, Wizards of the Coast, Null Signal Games or NetrunnerDB/RetekiDB.
+This site is not produced, endorsed, supported, or affiliated with Fantasy Flight Games, Wizards of the Coast, Null Signal Games, The Netrunner Reboot Project or NetrunnerDB/RetekiDB.
