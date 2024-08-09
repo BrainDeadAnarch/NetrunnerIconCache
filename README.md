@@ -42,7 +42,7 @@ If your online resource has the capability, embedding an SVG icon provides highe
 
 - Running Solo With Benefits
 
-[![Static Badge](https://img.shields.io/badge/Add-Resource-firebrick?style=flat)](https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions)
+[![Static Badge](https://img.shields.io/badge/Add-Resource-lightskyblue?style=flat)](https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions)
 
 ## What about NSG icons?
 
