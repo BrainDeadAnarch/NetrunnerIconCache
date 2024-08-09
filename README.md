@@ -70,8 +70,8 @@ If your online resource has the capability, embedding an SVG icon provides highe
 
 [![Static Badge](https://custom-icon-badges.demolab.com/badge/NIC-Installed-dodgerblue?style=flat&logo=stack)](https://github.com/BrainDeadAnarch/NetrunnerIconCache)
 
-**Markdown**
-```[![Static Badge](https://custom-icon-badges.demolab.com/badge/NIC-Installed-dodgerblue?style=flat&logo=stack)](https://github.com/BrainDeadAnarch/NetrunnerIconCache)```
+**Markdown**  
+`[![Static Badge](https://custom-icon-badges.demolab.com/badge/NIC-Installed-dodgerblue?style=flat&logo=stack)](https://github.com/BrainDeadAnarch/NetrunnerIconCache)`
 
 **HTML**
 ```<a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache"><img src="https://custom-icon-badges.demolab.com/badge/NIC-Installed-dodgerblue?style=flat&logo=stack" alt=""></a>```
