@@ -52,6 +52,12 @@ Since NIC includes Netrunner's original (recreated) icons, this site cannot incl
 >
 > -- [NSG Visual Assets Guidelines and Terms & Conditions](https://nullsignal.games/about/nsg-visual-assets)
 
+## Learn more about Netrunner
+
+[Null Signal Games (NSG)](https://nullsignal.games)
+
+[The Netrunner Reboot Project](https://sites.google.com/view/netrunner-reboot-project)
+
 ## Small Print
 
 The information presented on this site about Netrunner, both literal and graphical, is copyrighted by Fantasy Flight Games.
