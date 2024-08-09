@@ -1,6 +1,6 @@
 # Netrunner Icon Cache (NIC)
 
-Bringing together Official and Custom Netrunner card game icons for online and offline resources.
+Storing official and custom Netrunner card game icons for online and offline resources.
 
 ## Action icons
 
