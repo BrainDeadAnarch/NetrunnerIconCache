@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-Netrunner card game icons
+Netrunner card game icons for online and offline resources
 </p>
 
 <p align="center">
@@ -25,9 +25,8 @@ Netrunner card game icons
 <a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions"><img src="https://img.shields.io/badge/Add-Resource-gold?style=flat" alt=""></a>
 <a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache"><img src="https://img.shields.io/badge/NIC-Enabled-dodgerblue?style=flat" alt=""></a>
 </p>
-
+<p><br></p>
 =====TESTING
-
 
 ## Action icons
 
