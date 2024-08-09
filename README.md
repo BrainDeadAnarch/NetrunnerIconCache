@@ -18,14 +18,14 @@ b![](https://github.com/BrainDeadAnarch/NetrunnerIconCache/blob/main/assets/nic-
 
 <p align="center">
 
-### Netrunner card game icons
-
 [![Static Badge](https://img.shields.io/badge/Suggest-Icon-forestgreen?style=flat)](https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions) [![Static Badge](https://img.shields.io/badge/Add-Resource-navy?style=flat)](https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions) 
 </p>
 
+<p align="center">
 
 <a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions"><img src="https://img.shields.io/badge/Add-Resource-navy?style=flat" alt=""></a>
 
+</p>
 
 =====TESTING
 
