@@ -6,7 +6,7 @@ Storing official and custom Netrunner card game icons for online and offline res
 
 **Name**|**Logo**|**Source**|**Embed**
 :-----:|:-----:|:-----:|:-----:
-Agenda <sup>DB</sup>|<img src="https://www.svgrepo.com/show/447285/chart-bar.svg" width="24">     |[svgrepo.com](https://www.svgrepo.com/svg/447285/chart-bar) |```<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M18 18V2h-4v16h4zm-6 0V7H8v11h4zm-6 0v-8H2v8h4z"/></svg>``` 
+**Agenda** <sup>(DB)</sup>|<img src="https://www.svgrepo.com/show/447285/chart-bar.svg" width="24">     |[svgrepo.com](https://www.svgrepo.com/svg/447285/chart-bar) |```<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M18 18V2h-4v16h4zm-6 0V7H8v11h4zm-6 0v-8H2v8h4z"/></svg>``` 
 
 ## Faction icons
 
