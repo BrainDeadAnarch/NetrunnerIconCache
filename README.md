@@ -78,9 +78,7 @@ viewBox="0 0 24 24"
 
 ## Resources using NIC
 
-- Running Solo With Benefits
-
-<p><br></p>
+- Running Solo With Benefits  
 
 ### NIC badge
 
@@ -124,6 +122,6 @@ Since NIC includes Netrunner's original (recreated) icons, this site cannot incl
 
 ## Small Print
 
-<sup>The information presented on this site about Netrunner, both literal and graphical, is copyrighted by Fantasy Flight Games.
+<sup>The information presented on this site about Netrunner, both literal and graphical, is copyrighted by Fantasy Flight Games.</sup>
 
-This site is not produced, endorsed, supported, or affiliated with Fantasy Flight Games, Wizards of the Coast, Null Signal Games, The Netrunner Reboot Project, NetrunnerDB/RetekiDB, SVG Repo, iconmonstr or MWDelaney.</sup>
+<sup>This site is not produced, endorsed, supported, or affiliated with Fantasy Flight Games, Wizards of the Coast, Null Signal Games, The Netrunner Reboot Project, NetrunnerDB/RetekiDB, SVG Repo, iconmonstr or MWDelaney.</sup>
