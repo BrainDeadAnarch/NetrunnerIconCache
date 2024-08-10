@@ -110,6 +110,8 @@ Since NIC includes Netrunner's original (recreated) icons, this site cannot incl
 >
 > <sup>[NSG Visual Assets Guidelines and Terms & Conditions](https://nullsignal.games/about/nsg-visual-assets)</sup>
 
+Dear NSG: Please contact [@BrainDeadAnarch](https://www.reddit.com/u/BrainDeadAnarch) if you would like your SVG icons added to NIC.
+
 <p><br></p>
 
 ## Learn more about Netrunner
@@ -119,8 +121,6 @@ Since NIC includes Netrunner's original (recreated) icons, this site cannot incl
 [The Netrunner Reboot Project](https://sites.google.com/view/netrunner-reboot-project)
 
 <p><br></p>
-
-## Small Print
 
 <sup>The information presented on this site about Netrunner, both literal and graphical, is copyrighted by Fantasy Flight Games.</sup>
 
