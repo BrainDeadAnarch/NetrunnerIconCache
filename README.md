@@ -70,7 +70,7 @@ If your online resource has the capability, embedding an SVG icon provides highe
 
 [![Static Badge](https://custom-icon-badges.demolab.com/badge/NIC-Installed-dodgerblue?style=flat&logo=stack)](https://github.com/BrainDeadAnarch/NetrunnerIconCache)
 
-If your online resource is using NIC, please support this project by displaying the official NIC badge - Copy your preferred method below.
+If your resource is using NIC, please support this project by displaying the official NIC badge - Copy your preferred method below.
 
 **Markdown**  
 ```
@@ -84,7 +84,7 @@ If your online resource is using NIC, please support this project by displaying 
 
 **Download**
 
-[Vector SVG image](https://custom-icon-badges.demolab.com/badge/NIC-Installed-dodgerblue?style=flat&logo=stack.svg)
+Offline resources: [Vector SVG image](https://custom-icon-badges.demolab.com/badge/NIC-Installed-dodgerblue?style=flat&logo=stack.svg)
 
 ## What about NSG icons?
 
