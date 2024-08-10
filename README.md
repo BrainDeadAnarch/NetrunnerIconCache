@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-The Netrunner Icon Cache (NIC) provides fast access to published and custom Netrunner card game icons.
+The Netrunner Icon Cache (NIC) is an open source project, providing fast access to published and custom hi-res Netrunner card game icons.
 </p>
 
 <p align="center">
