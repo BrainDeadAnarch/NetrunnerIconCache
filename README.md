@@ -12,7 +12,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrainDeadAnarch/NetrunnerIconCache/main/assets/nic-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrainDeadAnarch/NetrunnerIconCache/main/assets/nic-light.svg">
-      <img alt="" src="https://raw.githubusercontent.com/BrainDeadAnarch/NetrunnerIconCache/main/assets/nic-light.svg" width="350" height="70" style="max-width: 100%;">
+      <img alt="NIC" src="https://raw.githubusercontent.com/BrainDeadAnarch/NetrunnerIconCache/main/assets/nic-light.svg" width="350" height="70" style="max-width: 100%;">
     </picture>
 </p>
 
