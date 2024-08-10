@@ -1,6 +1,3 @@
-![](assets/nic-light.png#gh-light-mode-only)
-![](assets/nic-dark.png#gh-dark-mode-only)
-
 <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/nic-dark.png">
@@ -42,7 +39,7 @@ The Netrunner Icon Cache (NIC) open source project provides quick access to publ
 
 ## Custom icons
 
-Not every Netrunner game action has a published icon. Therefore, inspired by the many fanmade Netrunner tokens, NIC includes custom icons for those game actions without official icons.
+Not every Netrunner game action or feature has a published icon. Therefore, inspired by the many fanmade Netrunner tokens, NIC includes custom icons for those game actions without icons.
 
 <p><br></p>
 
@@ -114,6 +111,4 @@ Dear NSG: Please contact [@BrainDeadAnarch](https://www.reddit.com/u/BrainDeadAn
 
 <p><br></p>
 
-<sup>The information presented on this site about Netrunner, both literal and graphical, is copyrighted by Fantasy Flight Games.</sup>
-
-<sup>This site is not produced, endorsed, supported, or affiliated with Fantasy Flight Games, Wizards of the Coast, Null Signal Games, The Netrunner Reboot Project, NetrunnerDB, RetekiDB, SVG Repo, iconmonstr or MWDelaney.</sup>
+<sup>The information presented on this site about Netrunner, both literal and graphical, is copyrighted by Fantasy Flight Games. This site is not produced, endorsed, supported, or affiliated with Fantasy Flight Games, Wizards of the Coast, Null Signal Games, The Netrunner Reboot Project, NetrunnerDB, RetekiDB, SVG Repo, iconmonstr or MWDelaney.</sup>
