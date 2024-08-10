@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-Netrunner card game icons for online and offline resources
+The Netrunner Icon Cache (NIC) provides fast access to published and custom Netrunner card game icons.
 </p>
 
 <p align="center">
