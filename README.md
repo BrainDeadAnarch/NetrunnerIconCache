@@ -81,6 +81,11 @@ If your online resource is using NIC, please support this project by displaying 
 ```
 <a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache"><img src="https://custom-icon-badges.demolab.com/badge/NIC-Installed-dodgerblue?style=flat&logo=stack" alt=""></a>
 ```
+
+**Download**
+
+[Vector SVG image](https://custom-icon-badges.demolab.com/badge/NIC-Installed-dodgerblue?style=flat&logo=stack.svg)
+
 ## What about NSG icons?
 
 Since NIC includes Netrunner's original (recreated) icons, this site cannot include NSG icons.
