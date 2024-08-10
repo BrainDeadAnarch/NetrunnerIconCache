@@ -21,7 +21,7 @@ The Netrunner Icon Cache (NIC) open source project provides quick access to publ
 </p>
 
 <p align="center">
-<a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions"><img src="https://img.shields.io/badge/Suggest-Icon-seagreen?style=flat" alt=""></a>
+<a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions"><img src="https://img.shields.io/badge/Suggest-Icon- forestgreen?style=flat" alt=""></a>
 <a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions"><img src="https://img.shields.io/badge/Add-Resource-darkviolet?style=flat" alt=""></a>
 <a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache"><img src="https://custom-icon-badges.demolab.com/badge/NIC-Installed-dodgerblue?style=flat&logo=stack" alt=""></a>
 </p>
@@ -56,9 +56,9 @@ Not every Netrunner game action has a published icon. Therefore, inspired by the
 
 ## Icon sources
 
-[**MWDelaney**](https://github.com/MWDelaney/Netrunner-Icon-Font): Recreated original Netrunner and [NetrunnerDB](https://netrunnerdb.com) / [RetekiDB](https://nrdb.reteki.fun) vector icons.
+[**MWDelaney**](https://github.com/MWDelaney/Netrunner-Icon-Font): Recreated original Netrunner and [NetrunnerDB](https://netrunnerdb.com)/[RetekiDB](https://nrdb.reteki.fun) vector icons.
 
-[**SVG Repo**](https://www.svgrepo.com): Open-licensed vectors for recreated [NetrunnerDB](https://netrunnerdb.com) / [RetekiDB](https://nrdb.reteki.fun) and custom icons.
+[**SVG Repo**](https://www.svgrepo.com): Open-licensed vectors for recreated [NetrunnerDB](https://netrunnerdb.com)/[RetekiDB](https://nrdb.reteki.fun) and custom icons.
 
 [**iconmonstr**](https://iconmonstr.com): Free to use vectors for custom icons.
 
@@ -124,4 +124,4 @@ Dear NSG: Please contact [@BrainDeadAnarch](https://www.reddit.com/u/BrainDeadAn
 
 <sup>The information presented on this site about Netrunner, both literal and graphical, is copyrighted by Fantasy Flight Games.</sup>
 
-<sup>This site is not produced, endorsed, supported, or affiliated with Fantasy Flight Games, Wizards of the Coast, Null Signal Games, The Netrunner Reboot Project, NetrunnerDB/RetekiDB, SVG Repo, iconmonstr or MWDelaney.</sup>
+<sup>This site is not produced, endorsed, supported, or affiliated with Fantasy Flight Games, Wizards of the Coast, Null Signal Games, The Netrunner Reboot Project, NetrunnerDB, RetekiDB, SVG Repo, iconmonstr or MWDelaney.</sup>
