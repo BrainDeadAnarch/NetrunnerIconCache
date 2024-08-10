@@ -1,5 +1,5 @@
-![](assets/nic-light.svg#gh-light-mode-only)
-![](assets/nic-dark.svg#gh-dark-mode-only)
+![](assets/nic-light.png#gh-light-mode-only)
+![](assets/nic-dark.png#gh-dark-mode-only)
 
 ### Netrunner card game icons
 
@@ -10,9 +10,9 @@
 
 <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/nic-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/nic-light.svg">
-      <img alt="NIC" src="assets/nic-light.svg" width="350" height="70" style="max-width: 100%;">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/nic-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="assets/nic-light.png">
+      <img alt="NIC" src="assets/nic-light.png" width="350" height="70" style="max-width: 100%;">
     </picture>
 </p>
 
