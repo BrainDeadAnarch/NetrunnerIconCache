@@ -1,5 +1,5 @@
-![](https://github.com/BrainDeadAnarch/NetrunnerIconCache/blob/main/assets/nic-light.svg?raw=true#gh-light-mode-only)
-![](https://github.com/BrainDeadAnarch/NetrunnerIconCache/blob/main/assets/nic-dark.svg?raw=true#gh-dark-mode-only)
+![](assets/nic-light.svg#gh-light-mode-only)
+![](assets/nic-dark.svg#gh-dark-mode-only)
 
 ### Netrunner card game icons
 
@@ -10,9 +10,9 @@
 
 <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BrainDeadAnarch/NetrunnerIconCache/blob/main/assets/nic-dark.svg?raw=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/BrainDeadAnarch/NetrunnerIconCache/blob/main/assets/nic-light.svg?raw=true">
-      <img alt="NIC" src="https://github.com/BrainDeadAnarch/NetrunnerIconCache/blob/main/assets/nic-light.svg?raw=true" width="350" height="70" style="max-width: 100%;">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/nic-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/nic-light.svg">
+      <img alt="NIC" src="assets/nic-light.svg" width="350" height="70" style="max-width: 100%;">
     </picture>
 </p>
 
