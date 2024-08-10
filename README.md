@@ -21,8 +21,8 @@ Netrunner card game icons for online and offline resources
 </p>
 
 <p align="center">
-<a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions"><img src="https://img.shields.io/badge/Suggest-Icon-mediumseagreen?style=flat" alt=""></a>
-<a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions"><img src="https://img.shields.io/badge/Add-Resource-gold?style=flat" alt=""></a>
+<a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions"><img src="https://img.shields.io/badge/Suggest-Icon-darkcyan?style=flat" alt=""></a>
+<a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions"><img src="https://img.shields.io/badge/Add-Resource-firebrick?style=flat" alt=""></a>
 <a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache"><img src="https://custom-icon-badges.demolab.com/badge/NIC-Installed-dodgerblue?style=flat&logo=stack" alt=""></a>
 </p>
 <p><br></p>
@@ -70,7 +70,7 @@ If your online resource has the capability, embedding an SVG icon provides highe
 
 [![Static Badge](https://custom-icon-badges.demolab.com/badge/NIC-Installed-dodgerblue?style=flat&logo=stack)](https://github.com/BrainDeadAnarch/NetrunnerIconCache)
 
-If you are using NIC on your resource, please support this project by displaying the official NIC badge - Copy your preferred code method below.
+If your online resource is using NIC, please support this project by displaying the official NIC badge - Copy your preferred method below.
 
 **Markdown**  
 ```
@@ -81,8 +81,6 @@ If you are using NIC on your resource, please support this project by displaying
 ```
 <a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache"><img src="https://custom-icon-badges.demolab.com/badge/NIC-Installed-dodgerblue?style=flat&logo=stack" alt=""></a>
 ```
-
-
 ## What about NSG icons?
 
 Since NIC includes Netrunner's original (recreated) icons, this site cannot include NSG icons.
