@@ -1,18 +1,11 @@
 ![](assets/nic-light.png#gh-light-mode-only)
 ![](assets/nic-dark.png#gh-dark-mode-only)
 
-### Netrunner card game icons
-
-[![Static Badge](https://img.shields.io/badge/Suggest-Icon-forestgreen?style=flat)](https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions) [![Static Badge](https://img.shields.io/badge/Add-Resource-navy?style=flat)](https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions) 
-<p><br></p>
-
-=====TESTING
-
 <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/nic-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="assets/nic-light.png">
-      <img alt="NIC" src="assets/nic-light.png" width="350" height="70" style="max-width: 100%;">
+      <img alt="NIC" src="assets/nic-light.png" style="max-width: 100%;">
     </picture>
 </p>
 
@@ -26,7 +19,6 @@ The Netrunner Icon Cache (NIC) open source project provides quick access to publ
 <a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache"><img src="https://custom-icon-badges.demolab.com/badge/NIC-Installed-dodgerblue?style=flat&logo=stack" alt=""></a>
 </p>
 <p><br></p>
-=====TESTING
 
 ## Action icons
 
@@ -56,9 +48,9 @@ Not every Netrunner game action has a published icon. Therefore, inspired by the
 
 ## Icon sources
 
-[**MWDelaney**](https://github.com/MWDelaney/Netrunner-Icon-Font): Recreated original Netrunner and [NetrunnerDB](https://netrunnerdb.com)/[RetekiDB](https://nrdb.reteki.fun) vector icons.
+[**MWDelaney**](https://github.com/MWDelaney/Netrunner-Icon-Font): Recreated original Netrunner and [NetrunnerDB](https://netrunnerdb.com) / [RetekiDB](https://nrdb.reteki.fun) vector icons.
 
-[**SVG Repo**](https://www.svgrepo.com): Open-licensed vectors for recreated [NetrunnerDB](https://netrunnerdb.com)/[RetekiDB](https://nrdb.reteki.fun) and custom icons.
+[**SVG Repo**](https://www.svgrepo.com): Open-licensed vectors for recreated [NetrunnerDB](https://netrunnerdb.com) / [RetekiDB](https://nrdb.reteki.fun) and custom icons.
 
 [**iconmonstr**](https://iconmonstr.com): Free to use vectors for custom icons.
 
