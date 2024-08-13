@@ -39,7 +39,7 @@ The Netrunner Icon Cache (NIC) open source project provides quick access to publ
 
 ## Custom icons
 
-Not every Netrunner game action or feature has a published icon. Therefore, inspired by the many fanmade Netrunner tokens, NIC includes custom icons for those game actions without icons.
+Not every Netrunner game action or function has a published icon. Therefore, inspired by the many fanmade Netrunner tokens, NIC includes custom icons for those game elements without icons.
 
 <p><br></p>
 
