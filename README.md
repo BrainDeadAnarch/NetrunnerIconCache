@@ -85,10 +85,6 @@ If your resource is using NIC, please support this project by displaying the off
 <a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache"><img src="https://custom-icon-badges.demolab.com/badge/NIC-Installed-dodgerblue?style=flat&logo=stack" alt=""></a>
 ```
 
-**Download**
-
-Offline resources: [Vector SVG image](https://custom-icon-badges.demolab.com/badge/NIC-Installed-dodgerblue?style=flat&logo=stack.svg)
-
 <p><br></p>
 
 ## What about NSG icons?
@@ -111,7 +107,7 @@ Dear NSG: Please contact [@BrainDeadAnarch](https://www.reddit.com/u/BrainDeadAn
 
 <p><br></p>
 
-[![]https://nrdb.reteki.fun/card_image//large/08112.jpg](https://nrdb.reteki.fun/en/card/08112)
+[![](https://nrdb.reteki.fun/card_image//large/08112.jpg)](https://nrdb.reteki.fun/en/card/08112)
 
 <p><br></p>
 
