@@ -95,8 +95,6 @@ Since NIC includes Netrunner's original (recreated) icons, this site cannot incl
 >
 > <sup>[NSG Visual Assets Guidelines and Terms & Conditions](https://nullsignal.games/about/nsg-visual-assets)</sup>
 
-Dear NSG: Please contact [@BrainDeadAnarch](https://www.reddit.com/u/BrainDeadAnarch) if you would like your SVG icons added to NIC.
-
 <p><br></p>
 
 ## Learn more about Netrunner
@@ -109,7 +107,7 @@ Dear NSG: Please contact [@BrainDeadAnarch](https://www.reddit.com/u/BrainDeadAn
 
 [![](https://nrdb.reteki.fun/card_image//large/08112.jpg)](https://nrdb.reteki.fun/en/card/08112)
 
-[![Static Badge](https://custom-icon-badges.demolab.com/badge/Netrunner_Array-CardDB-blue?style=flat&logo=cpu)]
+![Static Badge](https://custom-icon-badges.demolab.com/badge/Netrunner_Array-CardDB-blue?style=flat&logo=cpu)
 
 <p><br></p>
 
