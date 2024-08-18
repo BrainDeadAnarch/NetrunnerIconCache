@@ -111,4 +111,8 @@ Dear NSG: Please contact [@BrainDeadAnarch](https://www.reddit.com/u/BrainDeadAn
 
 <p><br></p>
 
+[![]https://nrdb.reteki.fun/card_image//large/08112.jpg](https://nrdb.reteki.fun/en/card/08112)
+
+<p><br></p>
+
 <sup>The information presented on this site about Netrunner, both literal and graphical, is copyrighted by Fantasy Flight Games. This site is not produced, endorsed, supported, or affiliated with Fantasy Flight Games, Wizards of the Coast, Null Signal Games, The Netrunner Reboot Project, NetrunnerDB, RetekiDB, SVG Repo, iconmonstr or MWDelaney.</sup>
