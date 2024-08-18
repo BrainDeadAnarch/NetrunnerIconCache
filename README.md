@@ -64,13 +64,9 @@ If your online resource has the capability, embedding an SVG icon provides highe
 viewBox="0 0 24 24"
 ```
 
-<p><br></p>
+<p><br></p>  
 
-## Resources using NIC
-
-- Running Solo With Benefits  
-
-### NIC badge
+## NIC badge
 
 [![Static Badge](https://custom-icon-badges.demolab.com/badge/NIC-Installed-dodgerblue?style=flat&logo=stack)](https://github.com/BrainDeadAnarch/NetrunnerIconCache)
 
