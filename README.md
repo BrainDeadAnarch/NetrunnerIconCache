@@ -109,7 +109,7 @@ Dear NSG: Please contact [@BrainDeadAnarch](https://www.reddit.com/u/BrainDeadAn
 
 [![](https://nrdb.reteki.fun/card_image//large/08112.jpg)](https://nrdb.reteki.fun/en/card/08112)
 
-[![Static Badge](https://https://custom-icon-badges.demolab.com/badge/Netrunner_Array-CardDB-blue?style=flat&logo=cpu)
+[![Static Badge](https://custom-icon-badges.demolab.com/badge/Netrunner_Array-CardDB-blue?style=flat&logo=cpu)
 
 <p><br></p>
 
