@@ -33,7 +33,7 @@ The Netrunner Icon Cache (NIC) open source project provides quick access to publ
 
 **(OG)** Original  
 **(DB)** NetrunnerDB/RetekiDB  
-**(CU)** Custom 
+**(CU)** Custom  
 **(*)**  Edit
 
 <p><br></p>
