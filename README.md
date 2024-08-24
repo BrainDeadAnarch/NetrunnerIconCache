@@ -17,7 +17,7 @@ The Netrunner Icon Cache (NIC) open source project provides quick access to publ
 </p>
 <p><br></p>
 
-## Action icons
+# Action icons
 
 **Name**|**Logo**|**Source**|**Embed**
 :-----:|:-----:|:-----:|:-----:
@@ -25,11 +25,11 @@ The Netrunner Icon Cache (NIC) open source project provides quick access to publ
 
 <p><br></p>
 
-## Faction icons
+# Faction icons
 
 <p><br></p>
 
-## Icon types
+# Icon types
 
 **(OG)** Original  
 **(DB)** NetrunnerDB/RetekiDB  
@@ -38,13 +38,13 @@ The Netrunner Icon Cache (NIC) open source project provides quick access to publ
 
 <p><br></p>
 
-## Custom icons
+# Custom icons
 
 Not every Netrunner game action or function has a published icon. Therefore, inspired by the many fanmade Netrunner tokens, NIC includes custom icons for those game elements without icons.
 
 <p><br></p>
 
-## Icon sources
+# Icon sources
 
 [**MWDelaney**](https://github.com/MWDelaney/Netrunner-Icon-Font): Recreated original Netrunner and [NetrunnerDB](https://netrunnerdb.com) / [RetekiDB](https://nrdb.reteki.fun) vector icons.
 
@@ -54,7 +54,7 @@ Not every Netrunner game action or function has a published icon. Therefore, ins
 
 <p><br></p>
 
-## Embedding icons
+# Embedding icons
 
 If your online resource has the capability, embedding an SVG icon provides higher quality and flexibility.
 
@@ -66,7 +66,7 @@ viewBox="0 0 24 24"
 
 <p><br></p>  
 
-## NIC badge
+# NIC badge
 
 [![Static Badge](https://custom-icon-badges.demolab.com/badge/NIC-Installed-dodgerblue?style=flat&logo=stack)](https://github.com/BrainDeadAnarch/NetrunnerIconCache)
 
@@ -84,7 +84,7 @@ If your resource is using NIC, please support this project by displaying the off
 
 <p><br></p>
 
-## What about NSG icons?
+# What about NSG icons?
 
 Since NIC includes Netrunner's original (recreated) icons, this site cannot include NSG icons.
 
@@ -94,7 +94,7 @@ Since NIC includes Netrunner's original (recreated) icons, this site cannot incl
 
 <p><br></p>
 
-## Learn more about Netrunner
+# Learn more about Netrunner
 
 [Null Signal Games (NSG)](https://nullsignal.games)
 
