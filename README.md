@@ -98,7 +98,7 @@ Since NIC includes Netrunner's original (recreated) icons, this site cannot incl
 
 [Null Signal Games (NSG)](https://nullsignal.games)
 
-[The Netrunner Reboot Project](https://sites.google.com/view/netrunner-reboot-project)
+[The Netrunner Reboot Project](http://about.reteki.fun)
 
 <p><br></p>
 
