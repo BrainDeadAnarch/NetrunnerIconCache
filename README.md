@@ -12,7 +12,7 @@ Published and Custom hi-res icons for Netrunner card game resources
 
 <p align="center">
 <a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions"><img src="https://img.shields.io/badge/Suggest-Icon- forestgreen?style=flat" alt=""></a>
-<a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions"><img src="https://img.shields.io/badge/Add-Resource-darkviolet?style=flat" alt=""></a>
+<a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions"><img src="https://img.shields.io/badge/Add-Resource-darkmagenta?style=flat" alt=""></a>
 <img src="https://img.shields.io/badge/Open_Source-Non_profit-darkorange?style=flat" alt="">
 </p>
 <p><br></p>
@@ -40,7 +40,7 @@ Published and Custom hi-res icons for Netrunner card game resources
 
 # Custom icons
 
-Inspired by the fanmade Netrunner tokens, NIC includes custom icons for game functions without published icons.
+Inspired by fanmade Netrunner tokens, NIC includes custom icons for game functions without published icons.
 
 <p><br></p>
 
