@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-Published and custom hi-res icons for Netrunner card game resources.
+Published and custom hi-res icons for Netrunner card game resources
 </p>
 
 <p align="center">
