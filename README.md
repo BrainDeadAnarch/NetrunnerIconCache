@@ -13,7 +13,7 @@ Published and custom hi-res icons for Netrunner card game resources.
 <p align="center">
 <a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions"><img src="https://img.shields.io/badge/Suggest-Icon- forestgreen?style=flat" alt=""></a>
 <a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions"><img src="https://img.shields.io/badge/Add-Resource-darkviolet?style=flat" alt=""></a>
-<a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache"><img src="https://custom-icon-badges.demolab.com/badge/NIC-Installed-dodgerblue?style=flat&logo=stack" alt=""></a>
+<img src="https://img.shields.io/badge/Open_Source-Non_profit-darkorange?style=flat" alt="">
 </p>
 <p><br></p>
 
@@ -34,13 +34,13 @@ Published and custom hi-res icons for Netrunner card game resources.
 **(OG)** Original  
 **(DB)** NetrunnerDB/RetekiDB  
 **(CU)** Custom  
-**(*)**  Edit
+**(*)**  Hacked by @BrainDeadAnarch
 
 <p><br></p>
 
 # Custom icons
 
-Not every Netrunner game action or function has a published icon. Therefore, inspired by the many fanmade Netrunner tokens, NIC includes custom icons for those game elements without icons.
+Inspired by the many fanmade Netrunner tokens, NIC includes custom icons for game functions without published icons.
 
 <p><br></p>
 
@@ -54,23 +54,9 @@ Not every Netrunner game action or function has a published icon. Therefore, ins
 
 <p><br></p>
 
-# Embedding icons
-
-If your online resource has the capability, embedding an SVG icon provides higher quality and flexibility.
-
-### Size and Color
-
-```
-viewBox="0 0 24 24"
-```
-
-<p><br></p>  
-
 # NIC badge
 
 [![Static Badge](https://custom-icon-badges.demolab.com/badge/NIC-Installed-dodgerblue?style=flat&logo=stack)](https://github.com/BrainDeadAnarch/NetrunnerIconCache)
-
-If your resource is using NIC, please support this project by displaying the official NIC badge - Copy your preferred method below.
 
 **Markdown**  
 ```
@@ -84,22 +70,23 @@ If your resource is using NIC, please support this project by displaying the off
 
 <p><br></p>
 
-# What about NSG icons?
+# NSG icons
 
-Since NIC includes Netrunner's original (recreated) icons, this site cannot include NSG icons.
+NIC includes Netrunner's original icons (recreated), therefore this site is unable to include NSG icons.
 
-> "Please do not mix our graphic assets with any FFG assets."
->
-> <sup>[NSG Visual Assets Guidelines and Terms & Conditions](https://nullsignal.games/about/nsg-visual-assets)</sup>
+> <sup>"Please do not mix our graphic assets with any FFG assets."</sup>  
+> <sup>[NSG Visual Assets Guidelines](https://nullsignal.games/about/nsg-visual-assets)</sup>
 
 <p><br></p>
 
 # Learn more about Netrunner
 
-[Null Signal Games (NSG)](https://nullsignal.games)
+[Official: Android Netrunner (FFG)](https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game) <sup>OUT OF PRINT</sup>
 
-[The Netrunner Reboot Project](http://about.reteki.fun)
+[Fan-run: Null Signal Games (NSG)](https://nullsignal.games)
+
+[Fan-run: The Netrunner Reboot Project](http://about.reteki.fun)
 
 <p><br></p>
 
-<sup>The information presented on this site about Netrunner, both literal and graphical, is copyrighted by Fantasy Flight Games. This site is not produced, endorsed, supported, or affiliated with Fantasy Flight Games, Wizards of the Coast, Null Signal Games, The Netrunner Reboot Project, NetrunnerDB, RetekiDB, SVG Repo, iconmonstr or MWDelaney.</sup>
+<sup>The information presented on this site about Netrunner, both literal and graphical, is copyrighted by Fantasy Flight Games (FFG). The Netrunner Icon Cache (NIC) is an unofficial and non-profit fansite that is not produced, endorsed, supported, or affiliated with Fantasy Flight Games, R. Talsorian Games, Wizards of the Coast, Null Signal Games, The Netrunner Reboot Project, NetrunnerDB, RetekiDB, SVG Repo, iconmonstr or MWDelaney.</sup>
