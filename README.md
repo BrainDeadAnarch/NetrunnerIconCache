@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-Published and custom hi-res icons for Netrunner card game resources
+Published and Custom hi-res icons for Netrunner card game resources
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ Published and custom hi-res icons for Netrunner card game resources
 
 # Custom icons
 
-Inspired by the many fanmade Netrunner tokens, NIC includes custom icons for game functions without published icons.
+Inspired by the fanmade Netrunner tokens, NIC includes custom icons for game functions without published icons.
 
 <p><br></p>
 
