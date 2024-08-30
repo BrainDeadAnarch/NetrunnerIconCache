@@ -18,6 +18,7 @@ Published and Custom hi-res icons for Netrunner card game resources
 <p><br></p>
 
 # Action icons
+<br>
 
 **Name**|**Logo**|**Source**|**Embed**
 :-----:|:-----:|:-----:|:-----
@@ -26,6 +27,7 @@ Published and Custom hi-res icons for Netrunner card game resources
 <p><br></p>
 
 # Faction icons
+<br>
 
 <p><br></p>
 
