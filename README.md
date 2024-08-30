@@ -13,7 +13,7 @@ Published and Custom hi-res icons for Netrunner card game resources
 <p align="center">
 <a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions"><img src="https://img.shields.io/badge/Suggest-Icon- forestgreen?style=flat" alt=""></a>
 <a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions"><img src="https://img.shields.io/badge/Add-Resource-darkmagenta?style=flat" alt=""></a>
-<img src="https://img.shields.io/badge/Open_Source-Non_profit-darkorange?style=flat" alt="">
+<img src="https://custom-icon-badges.demolab.com/badge/Open_Source-Non_profit-darkorange?style=flat&logo=open-source" alt="">
 </p>
 <p><br></p>
 
