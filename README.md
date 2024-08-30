@@ -38,16 +38,6 @@ Published and Custom hi-res icons for Netrunner card game resources
 
 <p><br></p>
 
-# Icon sources
-
-[**MWDelaney**](https://github.com/MWDelaney/Netrunner-Icon-Font): Recreated original Netrunner and [NetrunnerDB](https://netrunnerdb.com) / [RetekiDB](https://nrdb.reteki.fun) vector icons.
-
-[**SVG Repo**](https://www.svgrepo.com): Open-licensed vectors for recreated [NetrunnerDB](https://netrunnerdb.com) / [RetekiDB](https://nrdb.reteki.fun) and custom icons.
-
-[**iconmonstr**](https://iconmonstr.com): Free to use vectors for custom icons.
-
-<p><br></p>
-
 # NIC badge
 
 [![Static Badge](https://custom-icon-badges.demolab.com/badge/NIC-Installed-dodgerblue?style=flat&logo=stack)](https://github.com/BrainDeadAnarch/NetrunnerIconCache)
