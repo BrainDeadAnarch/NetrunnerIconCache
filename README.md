@@ -20,12 +20,9 @@ Published and Custom hi-res icons for Netrunner card game resources
 # Action icons
 <br>
 
-![icon](./icons/actions/agenda_NIC-DB.svg#gh-light-mode-only)
-![icon](./icons/actions/agenda_NIC-DB_dark.svg#gh-dark-mode-only)
-
 **Name**|**Logo**|**Source**|**Embed**
 :-----:|:-----:|:-----:|:-----
-**Agenda** <sup>(DB)</sup>|<img src="https://www.svgrepo.com/show/447285/chart-bar.svg" width="24">     |[svgrepo.com](https://www.svgrepo.com/svg/447285/chart-bar) |<pre>```<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M18 18V2h-4v16h4zm-6 0V7H8v11h4zm-6 0v-8H2v8h4z"/></svg>```</pre>
+**Agenda** <sup>(DB)</sup>| ![icon](./icons/actions/agenda_NIC-DB.svg#gh-light-mode-only) ![icon](./icons/actions/agenda_NIC-DB_dark.svg#gh-dark-mode-only)|[NetrunnerDB Git](https://github.com/NetrunnerDB/netrunnerdb) |<pre>```<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="388 388 24 24" xml:space="preserve"><path fill="none" d="M0 0h800v800H0V0z"/><path d="M412 412v-24h-6v24h6zm-9 0v-16.5h-6V412h6zm-9 0v-12h-6v12h6z"/></svg>```</pre>
 
 <p><br></p>
 
