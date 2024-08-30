@@ -38,12 +38,6 @@ Published and Custom hi-res icons for Netrunner card game resources
 
 <p><br></p>
 
-# Custom icons
-
-Inspired by fanmade Netrunner tokens, NIC includes custom icons for game functions without published icons.
-
-<p><br></p>
-
 # Icon sources
 
 [**MWDelaney**](https://github.com/MWDelaney/Netrunner-Icon-Font): Recreated original Netrunner and [NetrunnerDB](https://netrunnerdb.com) / [RetekiDB](https://nrdb.reteki.fun) vector icons.
