@@ -73,12 +73,12 @@ NIC includes Netrunner's original icons (recreated), therefore this site is unab
 # Learn more about Netrunner
 
 ### Official
-[Official: Netrunner (FFG)](https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game) <sup>OUT OF PRINT (2018)</sup>
+[Android Netrunner (FFG)](https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game) <sup>OUT OF PRINT (2018)</sup>
 
 ### Fan-run
-[Fan-run: Null Signal Games (NSG)](https://nullsignal.games)
+[Null Signal Games (NSG)](https://nullsignal.games)
 
-[Fan-run: The Netrunner Reboot Project](http://about.reteki.fun)
+[The Netrunner Reboot Project](http://about.reteki.fun)
 
 <p><br></p>
 
