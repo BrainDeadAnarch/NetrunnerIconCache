@@ -20,6 +20,11 @@ Published and Custom hi-res icons for Netrunner card game resources
 # Action icons
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.png" width="24" height="24">
+  <img alt="" src="https://www.svgrepo.com/show/352418/satellite-dish.svg" width="24" height="24">
+</picture>
+
 **Name**|**Logo**|**Source**|**Embed**
 :-----:|:-----:|:-----:|:-----
 **Agenda** <sup>(DB)</sup>| ![icon](./icons/actions/agenda_NIC-DB.svg#gh-light-mode-only) ![icon](./icons/actions/agenda_NIC-DB_dark.svg#gh-dark-mode-only)|[NetrunnerDB Git](https://github.com/NetrunnerDB/netrunnerdb) |<pre>```<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="388 388 24 24" xml:space="preserve"><path fill="none" d="M0 0h800v800H0V0z"/><path d="M412 412v-24h-6v24h6zm-9 0v-16.5h-6V412h6zm-9 0v-12h-6v12h6z"/></svg>```</pre>
