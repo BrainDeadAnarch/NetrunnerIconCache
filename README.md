@@ -67,7 +67,7 @@ Published and Custom hi-res icons for Netrunner card game resources
 <p><br></p>
 
 # NSG icons
-Based on the NSG visual asset policy and with NIC featuring a wide mix of Netrunner icons, which includes the original (recreated) icons, this site cannot include NSG icons because NSG does not want their graphics mixed with FFG graphics. Please visit the NSG site if you require any of the NSG icons.
+NIC contains a wide mix of Netrunner icons, including the original (recreated) icons, therefore this site does not feature NSG icons because NSG prefers not to have their graphics used alongside FFG graphics. Please visit the NSG site if you require any of the NSG icons.
 
 <p><br></p>
 
