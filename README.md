@@ -86,13 +86,6 @@ Published and Custom hi-res icons for Netrunner card game resources
 ```
 <a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache"><img src="https://custom-icon-badges.demolab.com/badge/NIC-Installed-dodgerblue?style=flat&logo=stack" alt=""></a>
 ```
-
-<p><br></p>
-
-# NSG icons
-
-NIC offers a variety of Netrunner icons, including the originals (recreated). Which is why NSG icons are not included on this site, as NSG prefers not to mix their graphics with those from FFG (see NSG Visual Asset Guidelines). If you need NSG icons, check out the NSG website.
-
 <p><br></p>
 
 # Learn more about Netrunner
