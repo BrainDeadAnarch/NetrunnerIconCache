@@ -11,7 +11,7 @@ Published and Custom hi-res icons for Netrunner card game resources
 </p>
 
 <p align="center">
-<a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions"><img src="https://img.shields.io/badge/Suggest-Icon-mediumseagreen?style=flat" alt=""></a>
+<a href="https://github.com/BrainDeadAnarch/NetrunnerIconCache/discussions"><img src="https://img.shields.io/badge/Suggest-Icon-seagreen?style=flat" alt=""></a>
 <img src="https://img.shields.io/badge/Unofficial-Fansite-lightseagreen?style=flat" alt="">
 <img src="https://custom-icon-badges.demolab.com/badge/Open_Source-Non_profit-mediumslateblue?style=flat&logo=open-source" alt="">
 </p>
